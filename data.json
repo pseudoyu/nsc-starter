@@ -1,0 +1,115 @@
+{
+  "apps" : [
+    {
+      "name": "RMIT",
+      "items": [
+        {"name":"RMIT-Canvas","url":"https://rmit.instructure.com/","icon":"draw-pen"},
+        {"name":"RMIT-Connect","url":"https://rmit.service-now.com/connect/?id=rmit_index","icon":"human-greeting-proximity"},
+        {"name":"RMIT-Enrolment","url":"https://online.sams.cloud.rmit.edu.au/psp/ps/EMPLOYEE/SA/c/AMS_EOL.AMSW3_STDNT_HOME.GBL","icon":"school-outline"},
+        {"name":"RMIT-Timetable","url":"https://mytimetable.rmit.edu.au/even/student?ss=defb54d159694c47abb27f10e797ab2c","icon":"calendar-month-outline"},
+        {"name":"RMIT-FutureEdge","url":"https://rmiteduau.sharepoint.com/sites/FutureEdge?e=1%3a59d0d6efad4e4f558fb24bf2b68e241f&CT=1600735688878&OR=OWA-NT&CID=fbbb7bb3-1521-1afa-9896-350f927ff6ba","icon":"rocket-launch-outline"},
+        {"name":"RMIT-Library","url":"https://www.rmit.edu.au/library","icon":"book-open-blank-variant"},
+        {"name":"EasyCite-referencingguide","url":"https://www.lib.rmit.edu.au/easy-cite/","icon":"note-edit-outline"}
+      ]
+    },
+    {
+      "name": "Common",
+      "items": [
+        {"name":"Google Search","url":"https://www.google.com/","icon":"magnify"},
+        {"name":"YouTube","url":"https://www.youtube.com/","icon":"youtube"},
+        {"name":"Bilibili","url":"https://www.bilibili.com/","icon":"video"},
+        {"name":"Ted","url":"https://www.ted.com/","icon":"cast-education"}
+        
+
+      ]
+    },
+    {
+      "name": "Learning",
+      "items": [
+        {"name":"Coursera","url":"https://www.coursera.org/","icon":"note-text-outline"},
+        {"name":"Linkedin","url":"https://www.linkedin.com/learning/?u=2104756","icon":"linkedin"},
+        {"name":"BBC","url":"https://www.bbc.com/","icon":"video-vintage"}
+
+      ]
+    },
+    {
+      "name": "Tools",
+      "items": [
+        {"name":"DeepL","url":"https://www.deepl.com/translator","icon":"translate-variant"},
+        {"name":"Excalidraw","url":"https://excalidraw.com/","icon":"human-male-board"},
+        {"name":"LibraryGenesis","url":"https://libgen.rs/","icon":"book-open"}
+
+      ]
+    }
+  ],
+  "bookmarks" : [
+    {
+      "category": "Infra",
+      "links": [
+        {
+          "name": "Cloudflare",
+          "url": "https://dash.cloudflare.com/b9d0f8770782c8ecb5618a08b3046af2"
+        },
+        {
+          "name": "Cloudflare Pages",
+          "url": "https://dash.cloudflare.com/b9d0f8770782c8ecb5618a08b3046af2/pages"
+        },
+        {
+          "name": "Railway",
+          "url": "https://railway.app/account/usage"
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com/dashboard"
+        },
+        {
+          "name": "Supabase",
+          "url": "https://app.supabase.com"
+        }
+      ]
+    },
+    {
+      "category": "Surfing",
+      "links": [
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Bilibili",
+          "url": "https://www.bilibili.com"
+        }
+      ]
+    },
+    {
+      "category": "Code",
+      "links": [
+        {
+          "name": "GitHub",
+          "url": "https://github.com/pseudoyu"
+        }
+      ]
+    },
+    {
+      "category": "Tool",
+      "links": [
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com"
+        },
+        {
+          "name": "Pika",
+          "url": "https://pika.style/open-graph-generator"
+        },
+        {
+          "name": "TinyWow",
+          "url": "https://tinywow.com"
+        }
+      ]
+    }
+  ]
+}
