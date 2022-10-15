@@ -13,101 +13,79 @@
       ]
     },
     {
-      "name": "Common",
-      "items": [
-        {"name":"Google Search","url":"https://www.google.com/","icon":"magnify"},
-        {"name":"YouTube","url":"https://www.youtube.com/","icon":"youtube"},
-        {"name":"Bilibili","url":"https://www.bilibili.com/","icon":"video"},
-        {"name":"Ted","url":"https://www.ted.com/","icon":"cast-education"}
-        
-
-      ]
-    },
-    {
       "name": "Learning",
       "items": [
-        {"name":"Coursera","url":"https://www.coursera.org/","icon":"note-text-outline"},
-        {"name":"Linkedin","url":"https://www.linkedin.com/learning/?u=2104756","icon":"linkedin"},
-        {"name":"BBC","url":"https://www.bbc.com/","icon":"video-vintage"}
+        {"name":"Coursera","url":"https://www.coursera.org/","icon":"domain"},
+        {"name":"Linkedin Learning","url":"https://www.linkedin.com/learning/?u=2104756","icon":"linkedin"},
+        {"name":"BBC","url":"https://www.bbc.com/","icon":"video-vintage"},
+        {"name":"BritishCouncil","url":"https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/verbs-and-prepositions","icon":"ab-testing"}
 
       ]
     },
     {
-      "name": "Tools",
+      "name": "Career",
       "items": [
-        {"name":"DeepL","url":"https://www.deepl.com/translator","icon":"translate-variant"},
-        {"name":"Excalidraw","url":"https://excalidraw.com/","icon":"human-male-board"},
-        {"name":"LibraryGenesis","url":"https://libgen.rs/","icon":"book-open"}
-
+        {"name":"Linkedin","url":"https://www.linkedin.com/feed/","icon":"linkedin"},
+        {"name":"InsiderGuides","url":"https://insiderguides.com.au/student-webinars/","icon":"note-text-outline"},
+        {"name":"StudyMelbourne","url":"https://www.studymelbourne.vic.gov.au/employment-and-work","icon":"account-school-outline"},
+        {"name":"StudyAustralia","url":"https://www.studyaustralia.gov.au/","icon":"account-school"},
+        {"name":"MyPerfectResume","url":"https://www.myperfectresume.com/dashboard/letter","icon":"account-cowboy-hat"}
       ]
     }
   ],
   "bookmarks" : [
     {
-      "category": "Infra",
-      "links": [
-        {
-          "name": "Cloudflare",
-          "url": "https://dash.cloudflare.com/b9d0f8770782c8ecb5618a08b3046af2"
-        },
-        {
-          "name": "Cloudflare Pages",
-          "url": "https://dash.cloudflare.com/b9d0f8770782c8ecb5618a08b3046af2/pages"
-        },
-        {
-          "name": "Railway",
-          "url": "https://railway.app/account/usage"
-        },
-        {
-          "name": "Vercel",
-          "url": "https://vercel.com/dashboard"
-        },
-        {
-          "name": "Supabase",
-          "url": "https://app.supabase.com"
-        }
-      ]
-    },
-    {
-      "category": "Surfing",
-      "links": [
-        {
-          "name": "Twitter",
-          "url": "https://twitter.com"
-        },
-        {
-          "name": "YouTube",
-          "url": "https://www.youtube.com"
-        },
-        {
-          "name": "Bilibili",
-          "url": "https://www.bilibili.com"
-        }
-      ]
-    },
-    {
-      "category": "Code",
-      "links": [
-        {
-          "name": "GitHub",
-          "url": "https://github.com/pseudoyu"
-        }
-      ]
-    },
-    {
       "category": "Tool",
       "links": [
+        {
+          "name": "Google Search",
+          "url": "https://www.google.com/"
+        },
         {
           "name": "Excalidraw",
           "url": "https://excalidraw.com"
         },
         {
-          "name": "Pika",
-          "url": "https://pika.style/open-graph-generator"
+          "name": "DeepL",
+          "url": "https://www.deepl.com/translator"
+        },
+        {
+          "name": "LibraryGenesis",
+          "url": "https://libgen.rs/"
+        },
+        {
+          "name": "KnowledgeSmart",
+          "url": "https://www.knowledgesmart.net/"
         },
         {
           "name": "TinyWow",
           "url": "https://tinywow.com"
+        }
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "links": [
+        {
+          "name": "YouTube",
+          "url": "https://www.youtube.com/"
+        },
+        {
+          "name": "Bilibili",
+          "url": "https://www.bilibili.com/"
+        }
+      ]
+    },
+    {
+      "category": "Education",
+      "links": [
+        {
+          "name": "Ted",
+          "url": "https://www.ted.com/"
+        },
+        {
+          "name": "VoiceTube",
+          "url": "https://tw.voicetube.com/"
         }
       ]
     }
